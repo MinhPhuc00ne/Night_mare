@@ -105,16 +105,21 @@ Bóng ma cô gái váy trắng đứng lặng lẽ trong ánh đèn sân, đôi 
 Night_Mare/
 ├── doc/
 │   └── screenshots/         # Hình ảnh minh họa & banner game
-├── Assets/                  # Tài nguyên Unity (Scripts, Prefabs, Scenes, Materials)
-│   ├── _Project/
-│   │   ├── Scripts/         # C# Scripts (PlayerController, AIController, LightSystem)
-│   │   ├── Prefabs/         # Các đối tượng game (Đèn dầu, Ma, Cầu dao, Chìa khóa)
-│   │   ├── Scenes/          # Các màn chơi (MainMenu, HouseBasementScene)
-│   │   └── Shaders/         # Shaders & hiệu ứng đồ họa
+├── docs/
+│   └── GDD.md               # Tài liệu thiết kế Game & Sơ đồ Mermaid AI / Tiến trình giải đố
+├── Assets/                  # Mã nguồn C# nòng cốt của trò chơi
+│   └── _Project/
+│       └── Scripts/
+│           ├── Player/      # FirstPersonController.cs (WASD, HeadBob, Sprint)
+│           ├── AI/          # NPCChasePlayer.cs (NavMeshAgent AI Chase & Mixamo Animations)
+│           ├── Interaction/ # InspectSystem.cs & IInteractable.cs (Phím E nhặt/xem, Phím Q bỏ xuống)
+│           └── Mechanics/   # ITOLightSwitch.cs & DoorSystem.cs (Công tắc điện & Khóa cửa)
 ├── CONTRIBUTING.md          # Quy chuẩn đóng góp code & đặt tên branch/commit
 ├── LICENSE                  # Giấy phép bản quyền MIT
 └── README.md                # Tài liệu giới thiệu dự án
 ```
+
+> 📘 **Xem thêm chi tiết thiết kế Game & Sơ đồ AI:** [`docs/GDD.md`](docs/GDD.md)
 
 ---
 
