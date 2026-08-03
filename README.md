@@ -55,35 +55,35 @@ Bóng ma cô gái váy trắng đứng lặng lẽ trong ánh đèn sân, đôi 
 
 ## 🖼️ Hình Ảnh Trong Game (Screenshots Gallery)
 
-*Dưới đây là các hình ảnh thực tế trải nghiệm không khí kinh dị từ trò chơi:*
+*Dưới đây là các hình ảnh thực tế ghi lại hành trình trải nghiệm game:*
 
-| Ngôi Nhà Trắng Trong Đêm Mưa | Không Gian Nội Thất U Uất |
+| Ngôi Nhà Trắng Trong Đêm Mưa | Nội Thất Căn Nhà Ban Đầu |
 | :---: | :---: |
-| ![NightMare Screenshot 01](doc/screenshots/screenshot_01.jpg) | ![NightMare Screenshot 02](doc/screenshots/screenshot_02.jpg) |
+| ![NightMare Screenshot](doc/screenshots/screenshot_10.jpg) | ![NightMare Screenshot](doc/screenshots/screenshot_12.jpg) |
 
-| Ánh Đèn Dầu Leo Lét | Cánh Cửa Hầm U Tối |
+| Chiếc Đèn Dầu Trong Tủ | Bóng Tối Nuốt Trọn Căn Nhà |
 | :---: | :---: |
-| ![NightMare Screenshot 03](doc/screenshots/screenshot_03.jpg) | ![NightMare Screenshot 04](doc/screenshots/screenshot_04.jpg) |
+| ![NightMare Screenshot](doc/screenshots/screenshot_14.jpg) | ![NightMare Screenshot](doc/screenshots/screenshot_01.jpg) |
 
-| Căn Phòng Bí Ẩn Tầng 2 | Hệ Thống Cầu Dao Tổng |
+| Manh Mối Kỳ Lạ Trên Tường | Bức Thư Lời Cầu Cứu |
 | :---: | :---: |
-| ![NightMare Screenshot 05](doc/screenshots/screenshot_05.jpg) | ![NightMare Screenshot 06](doc/screenshots/screenshot_06.jpg) |
+| ![NightMare Screenshot](doc/screenshots/screenshot_02.jpg) | ![NightMare Screenshot](doc/screenshots/screenshot_13.jpg) |
 
-| Góc Nhìn Thứ Nhất Sống Động | Thực Thể Săn Lùng Trong Bóng Tối |
+| Thu Thập Chìa Khóa Giải Đố | Manh Mối Vật Phẩm Trong Game |
 | :---: | :---: |
-| ![NightMare Screenshot 07](doc/screenshots/screenshot_07.jpg) | ![NightMare Screenshot 08](doc/screenshots/screenshot_08.jpg) |
+| ![NightMare Screenshot](doc/screenshots/screenshot_03.jpg) | ![NightMare Screenshot](doc/screenshots/screenshot_11.jpg) |
 
-| Tìm Kiếm Chìa Khóa | Hành Lang Lạnh Lẽo |
+| Lối Xuống Tầng Hầm Tối Om | Căn Phòng Dưới Tầng Hầm |
 | :---: | :---: |
-| ![NightMare Screenshot 09](doc/screenshots/screenshot_09.jpg) | ![NightMare Screenshot 10](doc/screenshots/screenshot_10.jpg) |
+| ![NightMare Screenshot](doc/screenshots/screenshot_04.jpg) | ![NightMare Screenshot](doc/screenshots/screenshot_07.jpg) |
 
-| Cực Hạn Nỗi Sợ | Bí Mật Cuối Cùng |
+| Thực Thể AI Tru Săn Trong Bóng Tối | Hệ Thống Cầu Dao Tổng Tầng Hầm |
 | :---: | :---: |
-| ![NightMare Screenshot 11](doc/screenshots/screenshot_11.jpg) | ![NightMare Screenshot 12](doc/screenshots/screenshot_12.jpg) |
+| ![NightMare Screenshot](doc/screenshots/screenshot_05.jpg) | ![NightMare Screenshot](doc/screenshots/screenshot_06.jpg) |
 
-| Ngôi Mộ Bên Hàng Rào | Ác Mộng Chưa Hồi Kết |
+| Màn Hình Đăng Nhập Game | Kết Thúc Ác Mộng & Developer Credits |
 | :---: | :---: |
-| ![NightMare Screenshot 13](doc/screenshots/screenshot_13.jpg) | ![NightMare Screenshot 14](doc/screenshots/screenshot_14.jpg) |
+| ![NightMare Screenshot](doc/screenshots/screenshot_09.jpg) | ![NightMare Screenshot](doc/screenshots/screenshot_08.jpg) |
 
 *(Xem trọn bộ hình ảnh chất lượng cao trong thư mục [`doc/screenshots`](doc/screenshots))*
 
