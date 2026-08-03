@@ -1,0 +1,41 @@
+# Unity build output & standalone executables
+NightMare_Version_2.1/
+Builds/
+Build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Unity Editor temporary directories & cache
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Asset store packages & temporary assets
+Assets/AssetStoreTools*
+
+# Visual Studio / VS Code / Rider cache
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
