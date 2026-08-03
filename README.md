@@ -108,5 +108,5 @@ Dự án này được phát hành dưới giấy phép **[MIT License](LICENSE)
 
 ## 👨‍💻 Tác Giả (Developer)
 
-- **Nguyễn Văn Khải** — *Creator & Lead Game Developer*
+- **Jos Nguyen** — *Creator & Lead Game Developer*
 - **Game Release**: [NightMare on itch.io](https://monkz-dct.itch.io/night-mare/download/t40Crdy5Z5rBzFjN46Uy5jclnqZJQDtKgQZE92pt)
