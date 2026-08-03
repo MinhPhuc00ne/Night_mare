@@ -53,21 +53,39 @@ Khải choàng tỉnh trước cổng nhà trong ánh sáng dịu nhẹ. Căn nh
 
 Bóng ma cô gái váy trắng đứng lặng lẽ trong ánh đèn sân, đôi mắt đen trống rỗng dõi theo anh.
 
----
-
 ## 🖼️ Hình Ảnh Trong Game (Screenshots Gallery)
 
-*Dưới đây là một số hình ảnh thực tế từ trò chơi:*
+*Dưới đây là các hình ảnh thực tế trải nghiệm không khí kinh dị từ trò chơi:*
 
-| Scene 1 | Scene 2 |
+| Ngôi Nhà Trắng Trong Đêm Mưa | Không Gian Nội Thất U Uất |
 | :---: | :---: |
-| ![NightMare Screenshot 1](doc/screenshots/screenshot1.png) | ![NightMare Screenshot 2](doc/screenshots/screenshot2.png) |
+| ![NightMare Screenshot 01](doc/screenshots/screenshot_01.jpg) | ![NightMare Screenshot 02](doc/screenshots/screenshot_02.jpg) |
 
-| Scene 3 | Scene 4 |
+| Ánh Đèn Dầu Leo Lét | Cánh Cửa Hầm U Tối |
 | :---: | :---: |
-| ![NightMare Screenshot 3](doc/screenshots/screenshot3.png) | ![NightMare Screenshot 4](doc/screenshots/screenshot4.png) |
+| ![NightMare Screenshot 03](doc/screenshots/screenshot_03.jpg) | ![NightMare Screenshot 04](doc/screenshots/screenshot_04.jpg) |
 
-*(Bạn có thể xem thêm hình ảnh tại thư mục [`doc/screenshots`](doc/screenshots))*
+| Căn Phòng Bí Ẩn Tầng 2 | Hệ Thống Cầu Dao Tổng |
+| :---: | :---: |
+| ![NightMare Screenshot 05](doc/screenshots/screenshot_05.jpg) | ![NightMare Screenshot 06](doc/screenshots/screenshot_06.jpg) |
+
+| Góc Nhìn Thứ Nhất Sống Động | Thực Thể Săn Lùng Trong Bóng Tối |
+| :---: | :---: |
+| ![NightMare Screenshot 07](doc/screenshots/screenshot_07.jpg) | ![NightMare Screenshot 08](doc/screenshots/screenshot_08.jpg) |
+
+| Tìm Kiếm Chìa Khóa | Hành Lang Lạnh Lẽo |
+| :---: | :---: |
+| ![NightMare Screenshot 09](doc/screenshots/screenshot_09.jpg) | ![NightMare Screenshot 10](doc/screenshots/screenshot_10.jpg) |
+
+| Cực Hạn Nỗi Sợ | Bí Mật Cuối Cùng |
+| :---: | :---: |
+| ![NightMare Screenshot 11](doc/screenshots/screenshot_11.jpg) | ![NightMare Screenshot 12](doc/screenshots/screenshot_12.jpg) |
+
+| Ngôi Mộ Bên Hàng Rào | Ác Mộng Chưa Hồi Kết |
+| :---: | :---: |
+| ![NightMare Screenshot 13](doc/screenshots/screenshot_13.jpg) | ![NightMare Screenshot 14](doc/screenshots/screenshot_14.jpg) |
+
+*(Xem trọn bộ hình ảnh chất lượng cao trong thư mục [`doc/screenshots`](doc/screenshots))*
 
 ---
 
